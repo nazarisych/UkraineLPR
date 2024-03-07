@@ -14,4 +14,4 @@
 - Its accuracy is over 98%.
 
 ![more5](images/screenshot.jpg)
-library: [cximage](https://drive.google.com/file/d/1ahYBPg9rfPLqNGo8fVNx8xhYIDmN0Gon/view?usp=sharing)[opencv](https://drive.google.com/file/d/1MkOHIH-wgIWSPXIwnxFhYd942zaEWBdz/view?usp=sharing)
+libraries: [cximage](https://drive.google.com/file/d/1ahYBPg9rfPLqNGo8fVNx8xhYIDmN0Gon/view?usp=sharing), [opencv](https://drive.google.com/file/d/1MkOHIH-wgIWSPXIwnxFhYd942zaEWBdz/view?usp=sharing)
