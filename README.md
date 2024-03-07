@@ -1,5 +1,5 @@
 # UkraineLPR
- This is a Ukraine Vehicle Llicense Plate Recognition vs2022 project.
+ This is a Ukraine Vehicle License Plate Recognition vs2022 project.
 
  ## Prerequisites
 - Visual Studio 2022
