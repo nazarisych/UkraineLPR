@@ -13,7 +13,7 @@
 - License plate recognition engine is built with only C++ and didn't use any third-party libraries.
 - Its accuracy is over 98%.
 
-![more5](images/screenshot.jpg)
+![more5](result/screenshot.jpg)
 ## Libraries
 - [cximage](https://archive.org/download/third-party-libraries/cximage.zip)
 - [opencv](https://archive.org/download/third-party-libraries/opencv.zip)
