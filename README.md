@@ -10,7 +10,7 @@
 ## Features
 
 - License plate recognition engine is built in vs2022
-- License Plate recognition engine is built with only C++ and didn't use any third-party libraries.
+- License plate recognition engine is built with only C++ and didn't use any third-party libraries.
 - Its accuracy is over 98%.
 
 ![more5](images/screenshot.jpg)
