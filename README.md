@@ -15,8 +15,8 @@
 
 ![more5](images/screenshot.jpg)
 ## Libraries
--[cximage](https://archive.org/download/third-party-libraries/cximage.zip)
--[opencv](https://archive.org/download/third-party-libraries/opencv.zip)
+- [cximage](https://archive.org/download/third-party-libraries/cximage.zip)
+- [opencv](https://archive.org/download/third-party-libraries/opencv.zip)
 
 ## Application 
--[Ukraine-License-Plate-Recognition](https://archive.org/download/ukraine-license-plate-recognition/Ukraine-License-Plate-Recognition.zip)
+- [Ukraine-License-Plate-Recognition](https://archive.org/download/ukraine-license-plate-recognition/Ukraine-License-Plate-Recognition.zip)
