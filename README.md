@@ -9,9 +9,10 @@
 
 ## Features
 
-- License plate recognition engine was built in vs2022
-- License Plate recognition engine was built with only C++ and didn't use any third-party libraries.
+- License plate recognition engine is built in vs2022
+- License Plate recognition engine is built with only C++ and didn't use any third-party libraries.
 - Its accuracy is over 98%.
 
 ![more5](images/screenshot.jpg)
-libraries: [cximage](https://drive.google.com/file/d/1ahYBPg9rfPLqNGo8fVNx8xhYIDmN0Gon/view?usp=sharing), [opencv](https://drive.google.com/file/d/1MkOHIH-wgIWSPXIwnxFhYd942zaEWBdz/view?usp=sharing)
+libraries: [cximage](https://archive.org/download/third-party-libraries/cximage.zip), [opencv](https://archive.org/download/third-party-libraries/opencv.zip)
+application [Ukraine-License-Plate-Recognition](https://archive.org/download/ukraine-license-plate-recognition/Ukraine-License-Plate-Recognition.zip)
