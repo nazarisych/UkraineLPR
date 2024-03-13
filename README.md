@@ -1,4 +1,4 @@
-# UkraineLPR
+# Ukraine Car License Plate Recognition
  This is a Ukraine Vehicle License Plate Recognition vs2022 project.
 
  ## Prerequisites
